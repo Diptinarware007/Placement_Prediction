@@ -84,8 +84,15 @@ streamlit run app.py
 This project is developed for educational purposes. It uses simulated data, and its predictions are estimates only. It does not guarantee actual student placement.
 
 ## 👩‍💻 Project Contributors
-- Dipti Narware
-- Aditi
+**1. Dipti Narware**
+- Project Development
+- Machine Learning Model
+- Streamlit Web Application
+
+**2. Aditi**
+- Project Development
+- Data Analysis
+- Project Documentation
 
 ## 🙏 Acknowledgement
 We sincerely thank our faculty guide and our institution for their guidance and support throughout this project.
